@@ -7,7 +7,7 @@ This is the demo page for the Bachelor's Thesis **Dataset Generation for Virtual
 
 ### Audio Examples
 
-| Example | Input (Dry) | Target (Analog, Farina) | Model Output |
+| Example | Input (Dry) | Target (Wet) | Model Output |
 |---------|-------------|-------------------------|--------------|
 | 1 | <audio src="Audio_Examples\inp_44100\01_SaxophoneCloseMic1.wav" controls preload></audio> | <audio src="Audio_Examples\Partitioned_outputs\01_SaxophoneCloseMic1.wav" controls preload></audio> | <audio src="Audio_Examples\Model_outputs\procesado_01_SaxophoneCloseMic1.wav" controls preload></audio> |
 | 2 | <audio src="Audio_Examples\inp_44100\2.wav" controls preload></audio> | <audio src="Audio_Examples\Partitioned_outputs\2.wav" controls preload></audio> | <audio src="Audio_Examples\Model_outputs\procesado_2.wav" controls preload></audio> |

@@ -21,7 +21,7 @@ In the following example, the output from Pedalboard is approximately 31.24 dBFS
 
 | Example | Input (Original) | Target (Wet, Farina's Partitioned) | Target (Wet, Pedalboard) | Target (Wet, Pedalboard Norm Peak) | Target (Wet, Pedalboard Norm RMS) |
 |---------|------------------|----------------------|---------------------|---------------------|---------------------|
-| 1 | <audio src="githubpage pedal/12_input.wav" controls preload></audio> | <audio src="githubpage pedal/farina/12.wav" controls preload></audio> | <audio src="githubpage pedal/nonorm/12.wav" controls preload></audio> | <audio src="githubpage pedal/12_pedal_norm_peak.wav" controls preload></audio> | <audio src="githubpage pedal/12_pedal_norm_rms.wav" controls preload></audio> | 
+| 1 | <audio src="githubpage_pedal_farina/12_input.wav" controls preload></audio> | <audio src="githubpage_pedal_farina/farina/12.wav" controls preload></audio> | <audio src="githubpage_pedal_farina/nonorm/12.wav" controls preload></audio> | <audio src="githubpage_pedal_farina/12_pedal_norm_peak.wav" controls preload></audio> | <audio src="githubpage_pedal_farina/12_pedal_norm_rms.wav" controls preload></audio> | 
 
 
 ### References

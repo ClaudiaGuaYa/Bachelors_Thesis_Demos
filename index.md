@@ -26,9 +26,9 @@ In the following example, the output from Pedalboard is approximately 31.24 dBFS
 
 ### References
 
-[1] Torger, A., & Farina, A. (n.d.). Real-Time Partitioned Convolution for Ambiophonics Surround Sound. 
-[2] [Pedalboard: Spotify Audio Effects Library (GitHub)](https://github.com/spotify/pedalboard)
-[3] Gated Convolutional Networks (GCN): Dauphin, Y. N., Fan, A., Auli, M., & Grangier, D. (2017). Language Modeling with Gated Convolutional Networks. Proceedings of the 34th International Conference on Machine Learning (ICML 2017).
+- [1] Torger, A., & Farina, A. (n.d.). Real-Time Partitioned Convolution for Ambiophonics Surround Sound. 
+- [2] [Pedalboard: Spotify Audio Effects Library (GitHub)](https://github.com/spotify/pedalboard)
+- [3] Gated Convolutional Networks (GCN): Dauphin, Y. N., Fan, A., Auli, M., & Grangier, D. (2017). Language Modeling with Gated Convolutional Networks. Proceedings of the 34th International Conference on Machine Learning (ICML 2017).
 
 
 

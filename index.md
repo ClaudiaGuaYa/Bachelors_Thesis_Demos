@@ -19,7 +19,7 @@ Below you can compare the same input processed with Farina’s partitioned convo
 
 In the following example, the output from Pedalboard is approximately 31.24 dBFS lower in both peak and RMS level compared to the reference target processed with Farina’s method. This significant level difference is corrected in the normalized versions shown in the table below.
 
-| Example | Input (Original) | Target (Wet, Farina's Partitioned) | Target (Pedalboard) | Target (Pedalboard Norm Peak) | Target (Pedalboard Norm RMS) |
+| Example | Input (Original) | Target (Wet, Farina's Partitioned) | Target (Wet, Pedalboard) | Target (Wet, Pedalboard Norm Peak) | Target (Wet, Pedalboard Norm RMS) |
 |---------|------------------|----------------------|---------------------|---------------------|---------------------|
 | 1 | <audio src="githubpage pedal/12_input.wav" controls preload></audio> | <audio src="githubpage pedal/farina/12.wav" controls preload></audio> | <audio src="githubpage pedal/nonorm/12.wav" controls preload></audio> | <audio src="githubpage pedal/12_pedal_norm_peak.wav" controls preload></audio> | <audio src="githubpage pedal/12_pedal_norm_rms.wav" controls preload></audio> | 
 

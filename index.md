@@ -27,10 +27,10 @@ In the following example, the output from Pedalboard is approximately 31.24 dBs 
 ### References 
 
 - Torger, A., & Farina, A. (2001). Real-Time Partitioned Convolution for Ambiophonics Surround Sound. 
-- Chen, Y.-H., Hsiao, W.-Y., Hsieh, T.-K., Jang, J.-S. R., & Yang, Y.-H. (2022). towards automatic transcription of polyphonic electric guitar music:a new dataset and a multi-loss transformer model. ArXiv.org. http://arxiv.org/abs/2202.09907 
+- [Chen, Y.-H., Hsiao, W.-Y., Hsieh, T.-K., Jang, J.-S. R., & Yang, Y.-H. (2022). towards automatic transcription of polyphonic electric guitar music:a new dataset and a multi-loss transformer model. ArXiv.org.](http://arxiv.org/abs/2202.09907)
 - [Pedalboard: Spotify Audio Effects Library (GitHub)](https://github.com/spotify/pedalboard)
 - Gated Convolutional Networks (GCN): Dauphin, Y. N., Fan, A., Auli, M., & Grangier, D. (2017). Language Modeling with Gated Convolutional Networks. Proceedings of the 34th International Conference on Machine Learning (ICML 2017).
-- Cambridge Music Technology. (n.d.). The “Mixing Secrets” Free Multitrack Download Library. Cambridge-Mt.com. https://cambridge-mt.com/ms/mtk/
+- [Cambridge Music Technology. (n.d.). The “Mixing Secrets” Free Multitrack Download Library. Cambridge-Mt.com](https://cambridge-mt.com/ms/mtk/) 
 
 
 ### Contact 
